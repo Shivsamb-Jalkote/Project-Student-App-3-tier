@@ -237,6 +237,8 @@ sudo systemctl start nginx
 ````
 
 ## $\color{red} \textbf{Go \ To \ Browser \ Hit \ Public-IP \ Nginx}$
-![nginx-output](https://github.com/abhipraydhoble/Project-3-tier-Student-App/assets/122669982/b2929899-fee8-4790-8178-c870faa55124)
+![Screenshot (697)](https://github.com/user-attachments/assets/19dacec6-6dbc-4c8b-8c0f-4973d8700085)
 
-![register-students](https://github.com/abhipraydhoble/Project-3-tier-Student-App/assets/122669982/210a4bef-8fc2-4ada-9faa-ad3f8b751958)
+
+![Screenshot (696)](https://github.com/user-attachments/assets/f092b1d6-d78e-4ef1-84c6-17e36f3c99d7)
+
